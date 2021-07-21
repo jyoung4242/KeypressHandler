@@ -67,7 +67,7 @@ function Screen3() {
 
   return (
     <div>
-      <KeyBoardEvents />
+      
       <h1>Screen3</h1>
       <p>Screen3 keypresses mapped: 5,6,7,8 will console out</p>
     </div>
