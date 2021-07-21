@@ -67,7 +67,7 @@ function Screen2() {
 
   return (
     <div>
-      <KeyBoardEvents />
+      
       <h1>Screen2</h1>
       <p>Screen2 keypresses mapped: j,k,l,; will console out</p>
     </div>
